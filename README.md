@@ -17,6 +17,18 @@ tigers
 
 rabbit
 
+<<<<<<< HEAD
 fox
 
 chicken
+=======
+from fish branch
+
+<<<<<<< HEAD
+salmon
+
+carp
+=======
+from insects branch
+>>>>>>> insects
+>>>>>>> fish
