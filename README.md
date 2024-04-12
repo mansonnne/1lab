@@ -8,3 +8,5 @@ other branches has classes of animals
 from predators branch
 
 bears
+
+tigers
