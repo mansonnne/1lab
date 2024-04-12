@@ -19,6 +19,10 @@ rabbit
 
 from fish branch
 
+<<<<<<< HEAD
 salmon
 
 carp
+=======
+from insects branch
+>>>>>>> insects
